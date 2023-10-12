@@ -1,6 +1,7 @@
 let name = "Sonic" //String
 let age = 22 //Number
 let isLoggedIn = false //Boolean
+let id = Symbol("123")
 
 //primitive Data Types
 //string => ""
