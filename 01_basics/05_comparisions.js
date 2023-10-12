@@ -9,3 +9,4 @@ console.log(undefined <= 0);
 
 // Strict check === means it will also check for datatypes
 console.log(2==="2");
+
